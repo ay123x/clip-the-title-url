@@ -1,2 +1,2 @@
 # clip-the-title-url
-JIRAチケット及びConfluenceドキュメントのURLとタイトルをクリップボードにコピーするChrome拡張機能です
+URLとH1タイトルをクリップボードにコピーするChrome拡張機能です。
