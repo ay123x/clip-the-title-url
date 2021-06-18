@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Clip the title and url",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "URLとタイトルをクリップボードにコピーするChrome拡張機能",
     "icons": {
       "16": "image/icon16.png",
@@ -12,8 +12,6 @@
         "scripts" : ["js/background.js"]
     },
     "permissions": [
-        "contextMenus",
-        "clipboardRead",
-        "activeTab"
+        "contextMenus"
     ]
   }
